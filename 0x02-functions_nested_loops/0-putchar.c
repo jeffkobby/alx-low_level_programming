@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- *  *main - print _putchar followed by a new line
- *   *
- *    *Return: Always 0 (epitychia)
- *     */
+ *main - print _putchar followed by a new line
+ *   
+ *Return: Always 0 (epitychia)
+*/
 int main(void)
 {
 	int str[] = {95, 112, 117, 116, 99, 104, 97, 114};
