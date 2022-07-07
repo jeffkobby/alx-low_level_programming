@@ -6,7 +6,7 @@
  *    * @n: The number to begin counting at.
  *     *
  *      * Return: no return.
- *       */
+ */
 
 void print_to_98(int n)
 {
