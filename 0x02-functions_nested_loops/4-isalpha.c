@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *  * _isalpha -shows 1 if c is a letter, lowercase or uppercase and 0 otherwise
+ *_isalpha -shows 1 if c is a letter, lowercase or uppercase and 0 otherwise
  *   *
  *    * @c: The character in ASCII code
  *     *
