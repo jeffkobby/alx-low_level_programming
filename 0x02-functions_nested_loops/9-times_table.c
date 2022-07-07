@@ -21,7 +21,7 @@ void times_table(void)
 
 			if (prod <= 9)
 			{
-				_putchar(prod);
+				_putchar(%c, prod);
 			}
 			else
 			{
