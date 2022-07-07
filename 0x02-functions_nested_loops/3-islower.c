@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  *_islower -shows 1 if the input is a lowercase character.Another cases, shows 0
  *
